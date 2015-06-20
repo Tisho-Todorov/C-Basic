@@ -1,0 +1,3 @@
+C:\Users\3-16\documents\visual studio 2013\Projects\Intro-Programming-Homework\6.SquareRootOfNumber\bin\Debug\6.SquareRootOfNumber.exe.config
+C:\Users\3-16\documents\visual studio 2013\Projects\Intro-Programming-Homework\6.SquareRootOfNumber\obj\Debug\6.SquareRootOfNumber.exe
+C:\Users\3-16\documents\visual studio 2013\Projects\Intro-Programming-Homework\6.SquareRootOfNumber\obj\Debug\6.SquareRootOfNumber.pdb

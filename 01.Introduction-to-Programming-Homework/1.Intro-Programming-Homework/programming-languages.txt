@@ -1,0 +1,19 @@
+               Information about the most popular programming languages
+
+1. C Language :
+C is definitely a very good programming language to learn, specifically for the beginners who are intending for a programming career in the long run. A bit of history: C language was developed by Dennis Ritchie in 1972, at Bell labs. The legacy of C language stems from the fact that it is ancestor to many of the advanced programming languages such as C++, Java, C#, JavaScript, and Pearl. C language is mostly used for developing low level applications as it is considered nearest to the hardware amongst all languages, baring assembly language.
+
+2. C++ Language :
+Though C language was performing extremely well, it lacked object orientation. In order to address this issue, C++ language was developed in 1983 which is often considered object oriented version of C language. C++ is one of the most widely used languages of the world with many amazing applications developed through it. Google Chrome, Mozilla Firefox, Winamp, and the complete suite of Adobe Software were developed using C++. Apart from that, several advanced games and operating systems – like windows – have been developed in C++ due to its quick processing and compilation mechanism. Also, C++ developers are in extremely high demand in the job market and the number of vacancies is growing. 
+
+3. Java :
+Java was developed by James Gosling, in 1990 at Sun Microsystems. Java further adds to the capabilities of C++ language. It is often said that Java owes a lot to C and C++ in terms of features and capabilities. The special thing about Java is that this is the first purely object oriented programming language. Java was developed on the principle of WORA i.e. “Write Once Run Anywhere”. This feature adds to the portability of Java.
+
+4. Objective C :
+Objective-C was initially developed at Apple by Brad Cox and Tom Love, in 1983. The purpose of developing Objective-C programming language was to address the deficiencies in C language. The major shortcoming in C language was object orientation which provoked many developers to devise languages that incorporate object orientation paradigm. As a result C++ and Object-C were developed. However, the latter have gained immense popularity owing to its use in developing applications for Apple’s iPhone and iPad.
+
+5. C# :
+C# belongs to the Microsoft’s family of programming language and was developed in 2000 to be the part of the first ever release of Microsoft’s prestigious .NET framework. C# is very similar to Java in terms of capabilities. It has been said that C# combines the robustness of C++ with the advanced features of Java. Therefore, if you are good at Java, it is extremely easy to switch to C# and vice-versa.C# language is used to develop almost all types of software applications that come with Visual Studio IDE. If you are developing a dynamic web based application in ASP.NET, you will be required to code in C# or VB to write backend handling mechanism. If you are developing a Windows form application or a Windows Presentation Foundation (WPF) Application, you will be required to code in C#. Similarly, if you are developing a windows phone application, again you will be required to code in C#.Keeping in view, the importance of the usage of C# in Microsoft’s application, you should definitely consider it if you are looking to develop applications for Windows-based platforms. The job market for C# programmers is also good and you can find a lucrative job being a C# programmer. 
+
+
+

@@ -1,0 +1,3 @@
+C:\Users\3-16\documents\visual studio 2013\Projects\Intro-Programming-Homework\8.Horriblecode\bin\Debug\8.Horriblecode.exe.config
+C:\Users\3-16\documents\visual studio 2013\Projects\Intro-Programming-Homework\8.Horriblecode\obj\Debug\8.Horriblecode.exe
+C:\Users\3-16\documents\visual studio 2013\Projects\Intro-Programming-Homework\8.Horriblecode\obj\Debug\8.Horriblecode.pdb
