@@ -1,0 +1,5 @@
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\18.NineDigitMagicNumbers\bin\Debug\18.NineDigitMagicNumbers.exe.config
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\18.NineDigitMagicNumbers\bin\Debug\18.NineDigitMagicNumbers.exe
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\18.NineDigitMagicNumbers\bin\Debug\18.NineDigitMagicNumbers.pdb
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\18.NineDigitMagicNumbers\obj\Debug\18.NineDigitMagicNumbers.exe
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\18.NineDigitMagicNumbers\obj\Debug\18.NineDigitMagicNumbers.pdb

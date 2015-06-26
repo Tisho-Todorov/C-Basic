@@ -1,0 +1,2 @@
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\17.Sunglasses\bin\Debug\17.Sunglasses.exe.config
+C:\Users\vaio pc\Documents\SoftUni\C# 0 Homework\02.Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesAndVariablesHomework\17.Sunglasses\bin\Debug\17.Sunglasses.exe.config

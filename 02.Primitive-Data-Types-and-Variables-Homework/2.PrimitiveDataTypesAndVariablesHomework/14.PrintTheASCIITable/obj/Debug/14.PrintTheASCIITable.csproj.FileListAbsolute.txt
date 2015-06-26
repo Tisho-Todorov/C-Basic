@@ -1,0 +1,8 @@
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe.config
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.pdb
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.exe
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.pdb
+C:\Users\vaio pc\Documents\SoftUni\C# 0 Homework\02.Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesAndVariablesHomework\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe.config
+C:\Users\vaio pc\Documents\SoftUni\C# 0 Homework\02.Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesAndVariablesHomework\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.exe
+C:\Users\vaio pc\Documents\SoftUni\C# 0 Homework\02.Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesAndVariablesHomework\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.pdb

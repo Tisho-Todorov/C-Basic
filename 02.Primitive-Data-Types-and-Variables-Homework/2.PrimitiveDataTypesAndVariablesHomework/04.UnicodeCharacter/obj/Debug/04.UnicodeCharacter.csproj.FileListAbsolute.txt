@@ -1,0 +1,12 @@
+C:\Users\vaio pc\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe.config
+C:\Users\vaio pc\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe
+C:\Users\vaio pc\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.pdb
+C:\Users\vaio pc\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.exe
+C:\Users\vaio pc\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.pdb
+C:\Users\vaio pc\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.csprojResolveAssemblyReference.cache
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe.config
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.exe
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.pdb
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.pdb
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.csprojResolveAssemblyReference.cache

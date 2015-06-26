@@ -1,0 +1,12 @@
+c:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
+c:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe
+c:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.pdb
+c:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
+c:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb
+C:\Users\3-16\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.csprojResolveAssemblyReference.cache
+C:\Users\vaio pc\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
+C:\Users\vaio pc\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
+C:\Users\vaio pc\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.csprojResolveAssemblyReference.cache
+C:\Users\vaio pc\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe
+C:\Users\vaio pc\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.pdb
+C:\Users\vaio pc\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb

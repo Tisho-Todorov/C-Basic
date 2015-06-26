@@ -1,0 +1,12 @@
+C:\Users\vaio pc\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\03.VariableInHexadecimalFormat\bin\Debug\03.VariableInHexadecimalFormat.exe.config
+C:\Users\vaio pc\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\03.VariableInHexadecimalFormat\obj\Debug\03.VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache
+C:\Users\vaio pc\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\03.VariableInHexadecimalFormat\bin\Debug\03.VariableInHexadecimalFormat.exe
+C:\Users\vaio pc\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\03.VariableInHexadecimalFormat\bin\Debug\03.VariableInHexadecimalFormat.pdb
+C:\Users\vaio pc\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\03.VariableInHexadecimalFormat\obj\Debug\03.VariableInHexadecimalFormat.exe
+C:\Users\vaio pc\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\03.VariableInHexadecimalFormat\obj\Debug\03.VariableInHexadecimalFormat.pdb
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\03.VariableInHexadecimalFormat\bin\Debug\03.VariableInHexadecimalFormat.exe.config
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\03.VariableInHexadecimalFormat\obj\Debug\03.VariableInHexadecimalFormat.exe
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\03.VariableInHexadecimalFormat\obj\Debug\03.VariableInHexadecimalFormat.pdb
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\03.VariableInHexadecimalFormat\bin\Debug\03.VariableInHexadecimalFormat.exe
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\03.VariableInHexadecimalFormat\bin\Debug\03.VariableInHexadecimalFormat.pdb
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\03.VariableInHexadecimalFormat\obj\Debug\03.VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache

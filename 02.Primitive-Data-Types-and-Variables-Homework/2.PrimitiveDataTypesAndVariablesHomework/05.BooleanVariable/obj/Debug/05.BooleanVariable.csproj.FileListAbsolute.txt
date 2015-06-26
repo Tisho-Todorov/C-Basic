@@ -1,0 +1,7 @@
+C:\Users\vaio pc\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe.config
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe.config
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\05.BooleanVariable\bin\Debug\05.BooleanVariable.pdb
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\05.BooleanVariable\obj\Debug\05.BooleanVariable.csprojResolveAssemblyReference.cache
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\05.BooleanVariable\obj\Debug\05.BooleanVariable.exe
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\05.BooleanVariable\obj\Debug\05.BooleanVariable.pdb
