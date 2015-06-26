@@ -1,0 +1,9 @@
+c:\users\3-16\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\01.SumOf3Numbers\bin\Debug\01.SumOf3Numbers.exe.config
+c:\users\3-16\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\01.SumOf3Numbers\bin\Debug\01.SumOf3Numbers.exe
+c:\users\3-16\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\01.SumOf3Numbers\bin\Debug\01.SumOf3Numbers.pdb
+c:\users\3-16\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\01.SumOf3Numbers\obj\Debug\01.SumOf3Numbers.csprojResolveAssemblyReference.cache
+c:\users\3-16\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\01.SumOf3Numbers\obj\Debug\01.SumOf3Numbers.exe
+c:\users\3-16\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\01.SumOf3Numbers\obj\Debug\01.SumOf3Numbers.pdb
+C:\Users\vaio pc\Documents\Soft-Uni\C#\C# 0 Homework\04. Console-Input-Output-Homework\4.ConsoleInputOutputHomework\01.SumOf3Numbers\bin\Debug\01.SumOf3Numbers.exe.config
+C:\Users\vaio pc\Documents\Soft-Uni\C#\C# 0 Homework\04. Console-Input-Output-Homework\4.ConsoleInputOutputHomework\01.SumOf3Numbers\obj\Debug\01.SumOf3Numbers.exe
+C:\Users\vaio pc\Documents\Soft-Uni\C#\C# 0 Homework\04. Console-Input-Output-Homework\4.ConsoleInputOutputHomework\01.SumOf3Numbers\obj\Debug\01.SumOf3Numbers.pdb

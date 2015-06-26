@@ -1,0 +1,6 @@
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.exe.config
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.exe
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.pdb
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\obj\Debug\13.CheckABitAtGivenPosition.exe
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\obj\Debug\13.CheckABitAtGivenPosition.pdb
+C:\Users\3-16\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\obj\Debug\13.CheckABitAtGivenPosition.csprojResolveAssemblyReference.cache

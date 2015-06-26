@@ -1,0 +1,5 @@
+c:\users\3-16\documents\visual studio 2013\Projects\Loops-Homework\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.exe.config
+c:\users\3-16\documents\visual studio 2013\Projects\Loops-Homework\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.exe
+c:\users\3-16\documents\visual studio 2013\Projects\Loops-Homework\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.pdb
+c:\users\3-16\documents\visual studio 2013\Projects\Loops-Homework\03.MinMaxSumAndAverageOfNNumbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.exe
+c:\users\3-16\documents\visual studio 2013\Projects\Loops-Homework\03.MinMaxSumAndAverageOfNNumbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.pdb

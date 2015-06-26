@@ -1,0 +1,9 @@
+C:\Users\3-16\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe.config
+C:\Users\3-16\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe
+C:\Users\3-16\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.pdb
+C:\Users\3-16\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.csprojResolveAssemblyReference.cache
+C:\Users\3-16\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.exe
+C:\Users\3-16\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.pdb
+C:\Users\vaio pc\Documents\Soft-Uni\C#\C# 0 Homework\04. Console-Input-Output-Homework\4.ConsoleInputOutputHomework\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe.config
+C:\Users\vaio pc\Documents\Soft-Uni\C#\C# 0 Homework\04. Console-Input-Output-Homework\4.ConsoleInputOutputHomework\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.exe
+C:\Users\vaio pc\Documents\Soft-Uni\C#\C# 0 Homework\04. Console-Input-Output-Homework\4.ConsoleInputOutputHomework\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.pdb

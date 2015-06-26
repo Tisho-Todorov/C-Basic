@@ -1,0 +1,6 @@
+C:\Users\3-16\documents\visual studio 2013\Projects\Loops-Homework\07.CalculateK!AndNK!\bin\Debug\07.CalculateK!AndNK!.exe.config
+C:\Users\3-16\documents\visual studio 2013\Projects\Loops-Homework\07.CalculateK!AndNK!\bin\Debug\07.CalculateK!AndNK!.exe
+C:\Users\3-16\documents\visual studio 2013\Projects\Loops-Homework\07.CalculateK!AndNK!\bin\Debug\07.CalculateK!AndNK!.pdb
+C:\Users\3-16\documents\visual studio 2013\Projects\Loops-Homework\07.CalculateK!AndNK!\obj\Debug\07.CalculateK!AndNK!.exe
+C:\Users\3-16\documents\visual studio 2013\Projects\Loops-Homework\07.CalculateK!AndNK!\obj\Debug\07.CalculateK!AndNK!.pdb
+C:\Users\3-16\documents\visual studio 2013\Projects\Loops-Homework\07.CalculateK!AndNK!\obj\Debug\07.CalculateK!AndNK!.csprojResolveAssemblyReference.cache
